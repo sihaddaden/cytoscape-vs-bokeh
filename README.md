@@ -1,5 +1,5 @@
 # cytoscape-vs-bokeh
-# PREUVE: Bokeh n'est PAS adapté au projet réseau mesh GenX
+#Bokeh n'est PAS adapté au projet réseau mesh GenX
 
 ## Argument Principal (avec références)
 
